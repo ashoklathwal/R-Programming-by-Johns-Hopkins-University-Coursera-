@@ -4,7 +4,7 @@ Functions - Part 2
 Defining a Function
 -------------------
 
-In addition to not specifying a default value, you can also set an argument to NUKK.
+In addition to not specifying a default value, you can also set an argument to NULL.
 
 	f <- function(a, b = 1, c = 2, d = NULL) {
 		
