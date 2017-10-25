@@ -3,7 +3,7 @@ Quiz
 
 |Attempts|Score|
 |--------|-----|
-|     2/2|20/20|
+|     3/3|20/20|
 
 
 Question 1
