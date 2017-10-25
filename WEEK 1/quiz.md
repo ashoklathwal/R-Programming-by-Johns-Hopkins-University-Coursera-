@@ -23,6 +23,8 @@ The definition of free software consists of four freedoms (freedoms 0 through 3)
 
 ### Answer
 The freedom to sell the software for any price.
+The freedom to prevent users from using the software for undesirable purposes.
+The freedom to restrict access to the source code for the software.
 
 ### Explanation
 This is not part of the free software definition. The free software definition does not mention anything about selling software (although it does not disallow it).
@@ -34,23 +36,24 @@ In R the following are all atomic data types EXCEPT
 
 ### Answer
 matrix
-
-### Explanation
-'matrix' is not an atomic data type in R.
+list
+Data Frame
+Table
+Array
 
 
 Question 4
 ----------
-If I execute the expression x <- 4 in R, what is the class of the object 'x' as determined by the `class()' function?
+If I execute the expression x <- 4L in R, what is the class of the object 'x' as determined by the `class()' function?
 
 ### Answer
-numeric
+Integer
 
 ### Explanation
 
-	> x <- 4
+	> x <- 4L
 	> class(x)
-	[1] "numeric"
+	[1] "integer"
 
 
 Question 5
