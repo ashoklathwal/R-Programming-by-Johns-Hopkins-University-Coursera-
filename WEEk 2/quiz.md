@@ -3,7 +3,7 @@ Quiz
 
 |Attempts|Score|
 |--------|-----|
-|     2/2|10/10|
+|     1/3|10/10|
 
 
 Question 1
